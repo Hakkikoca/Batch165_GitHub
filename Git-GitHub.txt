@@ -5,3 +5,5 @@
 - git commit -m "V1" komutu ile değişiklikleri staging area'dan commit store'a taşırız ve bir versiyon oluşturmuş oluruz.
 -b
 -c
+-d
+-k
