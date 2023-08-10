@@ -9,3 +9,4 @@
 -k
 -git branch ile branchleri listelerizgit
 -Git Branch -- all ile remote daki branch leride listeleriz
+-Git Branc name yazarak localdeki bir branch i sileriz.
