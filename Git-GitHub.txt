@@ -7,3 +7,5 @@
 -c
 -d
 -k
+-git branch ile branchleri listelerizgit
+-Git Branch -- all ile remote daki branch leride listeleriz
